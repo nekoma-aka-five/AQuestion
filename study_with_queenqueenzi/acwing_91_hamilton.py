@@ -1,3 +1,5 @@
+#-*- coding:utf-8 -*-
+#最短Hamilton路径 https://www.acwing.com/problem/content/93/
 import sys
 n = int(sys.stdin.readline().strip())
 m_a = [[0 for idx_i in range(n)] for idx_j in range(n)]
